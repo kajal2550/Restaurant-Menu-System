@@ -161,6 +161,8 @@ https://github.com/kajal2550/Restaurant-Menu-System
 
 📝 Future Scope: This project can be extended with payment gateway and user login.
 
+📍 Update: More features will be added in future releases.
+
 ---
 
 ✨ **Thank you!**
