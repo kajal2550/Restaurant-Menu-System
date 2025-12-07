@@ -87,6 +87,7 @@ a.age=11;
 
 console.log(c.age);
 
+// Plan: Add rating system feature soon
 
 // Future Task: Add backend API integration
 // TODO: Add search filter improvement
