@@ -89,6 +89,7 @@ console.log(c.age);
 
 
 // Future Task: Add backend API integration
+// TODO: Add search filter improvement
 
 
 
