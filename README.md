@@ -159,6 +159,8 @@ https://github.com/kajal2550/Restaurant-Menu-System
 | **Session** | 2025-26 |
 | **Submitted To** | Dr. Harpreet Kaur |
 
+📝 Future Scope: This project can be extended with payment gateway and user login.
+
 ---
 
 ✨ **Thank you!**
