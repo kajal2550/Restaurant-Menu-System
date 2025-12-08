@@ -97,14 +97,54 @@ git push -u origin main
 
 ## 📸 Screenshots (To be attached by student)
 
-- Folder structure  
-- `git status` output  
-- `git log`  
-- Branch list  
-- Merge conflict screenshot  
-- Resolved conflict screenshot  
-- GitHub page showing commits  
-- Final webpage UI  
+### 1️⃣ Folder Structure  
+[Folder Structure](01_Project_Files.png)  
+
+---
+
+### 2️⃣ Git Init + First Commit Screenshot  
+[Git Init](02_Git_Init_Bash.png)  
+
+---
+
+### 3️⃣ Branches Created Screenshot  
+[Branches List](03_Git_Branches_Created.png)  
+
+---
+
+### 4️⃣ Commit Progress Screenshot  
+[Commit Progress](04_Commit.png)  
+
+---
+
+### 5️⃣ GitHub Repository Home  
+[Repository Home](05_Repo_Home.png)  
+
+---
+
+### 6️⃣ Branches View + First Commit Confirmation  
+[Branches with Commit](06_Git_Branches_and_First_Commit.png)  
+
+---
+
+### 7️⃣ Git Log History Graph (Final)  
+[Git Log Graph](07_Git_Log_History_Graph.png)  
+
+---
+
+### 8️⃣ Merge Conflict Screen  
+[Merge Conflict](08_Merge_Conflict_View.png)  
+
+---
+
+### 9️⃣ Conflict Resolved Screen  
+[Resolved Conflict](09_Merge_Conflict_Resolved.png)  
+
+---
+
+### 🔟 Final Website UI  
+[Final Output](10_Final_Push_Main.png)  
+ 
 
 ---
 
