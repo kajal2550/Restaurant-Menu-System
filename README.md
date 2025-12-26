@@ -165,67 +165,35 @@ git pull origin main
 or 
 
 mkdir restaurant-menu-system
-# Creates a new project directory
-
 cd restaurant-menu-system
-# Moves into the project directory
 
 git init
-# Initializes a new Git repository
-
 git status
-# Shows the current status of files (tracked/untracked)
 
 git add .
-# Adds all files to the staging area
-
 git commit -m "Initial commit"
-# Creates the first commit with a message
 
 git branch -M main
-# Renames the current branch to 'main'
 
 git branch experiment
-# Creates a new branch named 'experiment'
-
 git branch test
-# Creates a new branch named 'test'
 
 git checkout experiment
-# Switches to the experiment branch
-
 git add .
-# Stages changes made in experiment branch
-
 git commit -m "Work done on experiment branch"
-# Commits changes in experiment branch
 
 git checkout test
-# Switches to the test branch
-
 git add .
-# Stages changes made in test branch
-
 git commit -m "Work done on test branch"
-# Commits changes in test branch
 
 git checkout main
-# Switches back to the main branch
-
 git merge --no-ff experiment
-# Merges experiment branch into main using non-fast-forward merge
-
 git merge --no-ff test
-# Merges test branch into main using non-fast-forward merge
 
 git remote add origin https://github.com/kajal2550/Restaurant-Menu-System.git
-# Connects local repository to GitHub repository
-
 git remote -v
-# Verifies the connected remote repository
 
 git push -u origin main
-# Pushes the main branch to GitHub
 
 ---
 
