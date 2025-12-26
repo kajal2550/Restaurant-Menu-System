@@ -105,7 +105,7 @@ git push -u origin main
 
 ---
 
-#### 🟢 Git Init + First Commit Screenshot
+#### 🟢 Git Init bash
 ![Git Init](public/Assets/02_Git_Init_Bash.png)
 
 ---
@@ -145,7 +145,7 @@ git push -u origin main
 
 ---
 
-#### 🎯 Final Website UI
+#### 🎯 Final push
 ![Final Output](public/Assets/10_Final_Push_Main.png)
 
 ---
