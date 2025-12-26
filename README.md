@@ -197,7 +197,7 @@ https://github.com/kajal2550/Restaurant-Menu-System
 |-------|---------|
 | **Name** | Kajal Kumari |
 | **Roll No.** | 40 |
-| **Course Code** | INT333 |
+| **Course Code** | INT331 |
 | **Course Title** | Web Development & Git Version Control |
 | **Department** | CSE |
 | **Session** | 2025-26 |

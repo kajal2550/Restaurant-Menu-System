@@ -277,8 +277,7 @@ nav input{
 }
 .nav p:hover{
     background-color: silver;
-    color: orange;
-    cursor: pointer;
+    color: orange;    cursor: pointer;
     
 }
 /* Improvement: Colors will be updated based on theme */
