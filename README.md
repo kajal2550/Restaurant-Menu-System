@@ -163,7 +163,8 @@ git push origin main
 git pull origin main  
 ```
 or 
-
+ ## git commonds 
+```
 mkdir restaurant-menu-system
 cd restaurant-menu-system
 
@@ -194,6 +195,7 @@ git remote add origin https://github.com/kajal2550/Restaurant-Menu-System.git
 git remote -v
 
 git push -u origin main
+```
 
 ---
 
