@@ -101,52 +101,52 @@ git push -u origin main
 
 ---
  #### 📁 Folder Structure
-![Folder Structure](public/assets/01_Project_Files.png)
+![Folder Structure](public/Assets/01_Project_Files.png)
 
 ---
 
 #### 🟢 Git Init + First Commit Screenshot
-![Git Init](public/assets/02_Git_Init_Bash.png)
+![Git Init](public/Assets/02_Git_Init_Bash.png)
 
 ---
 
 #### 🌿 Branches Created Screenshot
-![Branches List](public/assets/03_Git_Branches_Created.png)
+![Branches List](public/Assets/03_Git_Branches_Created.png)
 
 ---
 
 #### 🧱 Commit Progress Screenshot
-![Commit Progress](public/assets/04_Commit.png)
+![Commit Progress](public/Assets/04_Commit.png)
 
 ---
 
 #### 🏠 GitHub Repository Home
-![Repository Home](public/assets/05_Repo_Home.png)
+![Repository Home](public/Assets/05_Repo_Home.png)
 
 ---
 
 #### 🔀 Branches View + First Commit Confirmation
-![Branches with Commit](public/assets/06_Git_Branches_and_First_Commit.png)
+![Branches with Commit](public/Assets/06_Git_Branches_and_First_Commit.png)
 
 ---
 
 #### 📊 Git Log History Graph
-![Git Log Graph](public/assets/07_Git_Log_History_Graph.png)
+![Git Log Graph](public/Assets/07_Git_Log_History_Graph.png)
 
 ---
 
 #### ⚠️ Merge Conflict Screen
-![Merge Conflict](public/assets/08_Merge_Conflict_View.png)
+![Merge Conflict](public/Assets/08_Merge_Conflict_View.png)
 
 ---
 
 #### ✅ Resolved Conflict Screen
-![Resolved Conflict](public/assets/09_Merge_Conflict_Resolved.png)
+![Resolved Conflict](public/Assets/09_Merge_Conflict_Resolved.png)
 
 ---
 
 #### 🎯 Final Website UI
-![Final Output](public/assets/10_Final_Push_Main.png)
+![Final Output](public/Assets/10_Final_Push_Main.png)
 
 ---
 
